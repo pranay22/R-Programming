@@ -5,8 +5,8 @@ Course offered by Johns Hopkins University through Coursera
 
 Week 1: --  
 Week 2: Air Pollution - Pollution monitoring data for fine particulate matter(PM)  
-Week 3: --  
-Week 4: --    
+Week 3: Lexical Scoping (Peer graded programming exercise)  
+Week 4: Hospital Quality    
 
 
 *Official Certifcate Link:* --    
