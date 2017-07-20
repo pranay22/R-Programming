@@ -4,7 +4,7 @@ Course offered by Johns Hopkins University through Coursera
 *Contains submitted codes for all Homeworks:*  
 
 Week 1: --  
-Week 2: Pollution monitoring data for fine particulate matter(PM)  
+Week 2: Air Pollution - Pollution monitoring data for fine particulate matter(PM)  
 Week 3: --  
 Week 4: --    
 
