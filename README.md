@@ -9,8 +9,8 @@ Week 3: Lexical Scoping (Peer graded programming exercise)
 Week 4: Hospital Quality    
 
 
-*Official Certifcate Link:* --    
-*Received Grades:* **0.0%**  
+*Official Certifcate Link:* https://www.coursera.org/account/accomplishments/verify/7T78MB8486EE    
+*Received Grades:* **100.0%**  
 
 **Code Format:** R (to reduce the number of uploaded files)  
 *To compile resources, use R.*  
